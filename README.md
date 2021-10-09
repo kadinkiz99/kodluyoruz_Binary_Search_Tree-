@@ -4,13 +4,12 @@ Patikadev  Binary Search Tree Ödevi için hazırlanmıştır.
 
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
-Örnek olarak, root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 ```
 1) İlk adım olarak root 6 olarak belirlendi. 
 2) Dizinin başındaki elemandan başlayarak ağaca eklenmeye başlandı . 
 3) 7 root dan büyük  olduğu için ağacın sağ tarafına eklenir. 
-4)5 root dan küçük olduğu üçün ağacın sol tarafına eklenir. 
+4) 5 root dan küçük olduğu üçün ağacın sol tarafına eklenir. 
 5) 1 root dan küçük olduğu için ağacın sol tarafana eklenir. 
 6) Ağacın sol tarafında 5 vardı 5 , 1 den büyük olduğu için 5 in sol tarafına yeni node ile  1 eklenir .
 7) 8 root dan büyük ağaçta sağ yöne gideceğiz. Bir adım gidince daha önce 7 eklennmişti . 
